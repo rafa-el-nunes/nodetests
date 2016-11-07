@@ -1,0 +1,23 @@
+{
+  "name": "node_features",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafa-el-nunes/nodetests.git"
+  },
+  "keywords": [
+    "node",
+    "functions"
+  ],
+  "author": "Rafael Nunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafa-el-nunes/nodetests/issues"
+  },
+  "homepage": "https://github.com/rafa-el-nunes/nodetests#readme"
+}
